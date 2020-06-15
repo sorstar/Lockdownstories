@@ -87,11 +87,24 @@ article a {
   0 22.3px 17.9px rgba(0, 0, 0, 0.072),
   0 41.8px 33.4px rgba(0, 0, 0, 0.086),
   0 100px 80px rgba(0, 0, 0, 0.12)
-;
+; }
 
 
 #video-detail {
   width: 100%;
   height: 90vh;
   padding-top: 1em;
+}
+#video-detail h2 {
+  margin-top: 1em;
+  margin-left: 2em;
+}
+#video-detail p {
+  margin-top: 3.5em;
+  margin-left: -4.3em;
+}
+
+
+#profiel {
+  display: flex;
 }
