@@ -57,9 +57,7 @@ article {
   background-position: center;
   padding: 1em;
   box-sizing: border-box;
-  padding-top: 21em
-  text-decoration: none;
-
+  padding-top: 21em;
 }
 
 article h2 {
@@ -68,6 +66,10 @@ article h2 {
 
 article p {
   color: white;
+}
+
+article a {
+  text-decoration: none;
 }
 
 #fixedbutton {
