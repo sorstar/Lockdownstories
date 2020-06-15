@@ -68,11 +68,19 @@ article p {
   color: white;
 }
 
-#fixedbutton
-  position: fixed;
-  bottom: 0px;
-  right: 0px;
-  margin: 1em;
-  color: #75ADB3;
-  font-size: 16em;
-}
+  /* #fixedbutton
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    margin: 1em;
+    color: #75ADB3;
+    font-size: 16em;
+  } */
+
+.fas fa-plus-circle
+position: fixed;
+bottom: 0px;
+right: 0px;
+margin: 1em;
+color: #75ADB3;
+font-size: 16em;
