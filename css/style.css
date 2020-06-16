@@ -140,5 +140,6 @@ article a {
 
 #profiel a {
   color: darkgrey;
-
+  text-decoration: none;
+  font-size: 3em;
 }
