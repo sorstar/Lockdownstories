@@ -189,3 +189,9 @@ article a {
 .active {
   color: #A578FC;
 }
+.cvdd h2{
+  font-weight: bold;
+  background-color: #A578FC;
+  color: white;
+
+}
