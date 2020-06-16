@@ -190,4 +190,10 @@ article a {
 
 .active {
   background-color: #A578FC;
+  padding: 7px 10px;
+
+}
+
+.inactive {
+  padding: 7px 10px;
 }
