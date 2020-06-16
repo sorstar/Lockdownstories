@@ -114,6 +114,6 @@ article a {
 }
 
 #profiel img {
-  width: 75%;
-  height: 75%;
+  max-width: 25%;
+  max-height: 25%;
 }
