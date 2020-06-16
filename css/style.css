@@ -66,12 +66,12 @@ article {
 
 article h2 {
   color: white;
-  text-shadow: 2px 2px 4px #000000;
+  text-shadow: 2px 2px 15px rgba(150, 150, 150, 1);
 }
 
 article p {
   color: white;
-  text-shadow: 2px 2px 4px #000000;
+  text-shadow: 2px 2px 15px rgba(150, 150, 150, 1);
 }
 
 article a {
