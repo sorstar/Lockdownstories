@@ -118,14 +118,6 @@ article a {
   height: 90vh;
   padding-top: 1em;
 }
-#video-detail h2 {
-  /* margin-top: 0.3em;
-  margin-left: 1.2em; */
-}
-#video-detail p {
-  /* margin-top: 2.5em;
-  margin-left: -4.3em; */
-}
 
 
 #profiel {
@@ -143,6 +135,16 @@ article a {
   display: flex;
 }
 
+#profiel-1 p {
+  align-self: flex-end;
+  margin-left: -4.2em;
+  margin-bottom: 1.4em;
+}
+
+#profiel-1 h2 {
+  margin-left: 1em;
+}
+
 #profiel-2 {
   display: flex;
 }
@@ -155,4 +157,5 @@ article a {
   color: #A9A9A9;
   text-decoration: none;
   font-size: 3em;
+  margin-left: .5em;
 }
