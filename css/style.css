@@ -214,7 +214,7 @@ article a {
   border:0;
 }
 
-.cvdd p{
+.cvdd p {
   background-color: #5D4293;
   width: 66.66%;
   color: white;
@@ -223,4 +223,5 @@ article a {
   padding-bottom: 2em;
   margin-top: -104px;
   text-align: center;
+  border:0;
 }
