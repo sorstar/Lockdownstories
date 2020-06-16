@@ -197,6 +197,7 @@ article a {
   width: 33.3%;
   padding-top: 1em;
   padding-bottom: 0.3em;
+  text-align: center;
 
 }
 
@@ -207,5 +208,5 @@ article a {
   font-size: 1.3em;
   width: 33.3%;
   padding-top: 1em;
-
+  text-align: center;
 }
