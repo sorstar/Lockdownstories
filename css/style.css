@@ -159,3 +159,7 @@ article a {
   font-size: 3em;
   margin-left: .5em;
 }
+
+#red {
+  color: #FF0000;
+}
