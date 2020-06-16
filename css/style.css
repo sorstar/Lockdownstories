@@ -19,6 +19,7 @@ nav {
   background: #5D4293;
   padding-left: 1em;
   padding-right: 1em;
+  position: fixed;
   box-sizing: border-box;
 }
 
