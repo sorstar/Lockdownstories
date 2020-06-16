@@ -50,6 +50,7 @@ main {
   flex-direction: row;
   flex-wrap: wrap;
   padding: .5em;
+  margin-top: 75px;
 }
 
 article {
