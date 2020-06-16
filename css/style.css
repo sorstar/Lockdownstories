@@ -30,8 +30,6 @@ nav a {
   text-decoration: none;
 }
 
-
-
 ul {
   display: flex;
   list-style: none;
@@ -189,7 +187,5 @@ article a {
 }
 
 .active {
-  background-color: #A578FC;
-  padding: 2px 5px;
-  box-sizing: border-box;
+  color: #A578FC;
 }
