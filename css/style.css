@@ -139,6 +139,18 @@ article a {
   height: 75px;
 }
 
+#profiel-1 {
+  display: flex;
+}
+
+#profiel-2 {
+  display: flex;
+}
+
+#profiel-2 p {
+  font-size: 3em;
+}
+
 #profiel-2 a {
   color: #A9A9A9;
   text-decoration: none;
