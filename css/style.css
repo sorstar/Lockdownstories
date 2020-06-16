@@ -137,3 +137,8 @@ article a {
   max-width: 75px;
   height: 75px;
 }
+
+#profiel a {
+  color: darkgrey;
+
+}
