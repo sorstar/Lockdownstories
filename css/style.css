@@ -317,5 +317,16 @@ article a {
 
 .profiel {
   display: flex;
-  margin-top: 110px;
+  margin-left: 20px;
+  margin-top: 90px;
+}
+
+.profiel h2 {
+  margin-left: 20px;
+}
+
+.profiel p {
+  margin-left: -65px;
+  margin-right: 20px;
+  align-self: flex-end;
 }
