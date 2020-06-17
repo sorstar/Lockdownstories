@@ -238,7 +238,7 @@ article a {
   background-color: #A578FC;
   color: white;
   align-items: center;
-  text-align: center;
+  flex-direction: column;
 }
 
 .cvdd-2 {
@@ -247,5 +247,8 @@ article a {
   color: white;
   flex-grow: 2;
   align-items: center;
+}
+
+.cvdd-1 h3 {
   text-align: center;
 }
