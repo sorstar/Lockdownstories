@@ -232,14 +232,20 @@ article a {
 }
 
 .cvdd-1 {
-  width: 30em;
+  display: flex;
+  width: 20em;
   height: 10em;
   background-color: #A578FC;
   color: white;
+  align-items: center;
+  text-align: center;
 }
 
 .cvdd-2 {
+  display: flex;
   background-color: #5D4293;
   color: white;
   flex-grow: 2;
+  align-items: center;
+  text-align: center;
 }
