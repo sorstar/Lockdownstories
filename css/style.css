@@ -250,6 +250,15 @@ article a {
   align-items: center;
 }
 
+.cvdd-1 h2 {
+  text-align: center;
+  padding-top: 2em;
+}
+
 .cvdd-1 h3 {
+  text-align: center;
+}
+
+.cvdd-2 p {
   text-align: center;
 }
