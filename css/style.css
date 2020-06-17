@@ -277,7 +277,7 @@ article a {
     border-radius: 4px;
 }
 
-.radio-toolbar label:hover {
+/* .radio-toolbar label:hover {
   background-color: #A578FC;
 }
 
@@ -287,5 +287,4 @@ article a {
 
 .radio-toolbar input[type="radio"]:checked + label {
     background-color: #A578FC;
-    border-color: #4c4;
 }
