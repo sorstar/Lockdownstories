@@ -1,17 +1,4 @@
-<svg width="267" height="195" viewBox="0 0 267 195" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g filter="url(#filter0_d)">
-<rect x="5.5" y="15.5" width="256" height="170" rx="11.5" stroke="#CA3A4A" stroke-width="3" stroke-dasharray="10 10"/>
-</g>
-<path d="M167.592 90.136V105.112H141.672V132.472H125.112V105.112H99.336V90.136H125.112V64.36H141.672V90.136H167.592Z" fill="#CA3A4A"/>
-<defs>
-<filter id="filter0_d" x="0" y="14" width="267" height="181" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
-<feOffset dy="4"/>
-<feGaussianBlur stdDeviation="2"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
-<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow" result="shape"/>
-</filter>
-</defs>
+<svg width="259" height="187" viewBox="0 0 259 187" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1.5" y="15.5" width="256" height="170" rx="11.5" stroke="#CA3A4A" stroke-width="3" stroke-dasharray="10 10"/>
+<path d="M163.592 90.136V105.112H137.672V132.472H121.112V105.112H95.336V90.136H121.112V64.36H137.672V90.136H163.592Z" fill="#CA3A4A"/>
 </svg>
