@@ -289,3 +289,18 @@ article a {
 .radio-toolbar input[type="radio"]:checked + label {
     background-color: #A578FC;
 }
+
+.button-upload {
+  margin: 10px auto;
+  width: 20em;
+}
+
+.button-upload button {
+  background-color: #C4C4C4;
+  border: none;
+  border-radius: 30px;
+  color: white;
+  padding: 20px 40px;
+  text-align: center;
+  text-transform: uppercase;
+}
