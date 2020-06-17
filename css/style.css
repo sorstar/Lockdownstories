@@ -314,3 +314,8 @@ article a {
   font-size: 2em;
   color: #CA3A4A;
 }
+
+.profiel {
+  display: flex;
+  margin-top: 110px;
+}
