@@ -239,13 +239,21 @@ article a {
 }
 
 #upload {
-  display: block;
-  /* margin-top: 2em; */
+  margin-top: 6em;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 125px;
+}
+
+#upload img {
+  margin: auto;
+}
+
+#uploadimage{
+  display: flex;
+  justify-content: center;
 }
 
 #upload p {
   text-align: center;
+  font-size: 1.2em;
 }
