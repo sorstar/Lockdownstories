@@ -237,3 +237,7 @@ article a {
 #fixedheight {
   margin-top: 2em;
 }
+
+#upload {
+  margin: 0 auto;
+}
