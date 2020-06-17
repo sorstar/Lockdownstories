@@ -241,3 +241,7 @@ article a {
 #upload {
   margin: 0 auto;
 }
+
+#upload img {
+  width: 150%;
+}
