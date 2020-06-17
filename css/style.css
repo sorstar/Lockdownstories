@@ -188,7 +188,7 @@ article a {
   color: #A578FC;
 }
 
-.cvdd h2 {
+/* .cvdd h2 {
   font-weight: bold;
   background-color: #A578FC;
   color: white;
@@ -224,4 +224,22 @@ article a {
   margin-top: -104px;
   text-align: center;
   border:0;
+} */
+
+.cvdd {
+  margin-top: 110px;
+  display: flex;
+}
+
+.cvdd-1 {
+  width: 30em;
+  height: 10em;
+  background-color: #A578FC;
+  color: white;
+}
+
+.cvdd-2 {
+  background-color: #5D4293;
+  color: white;
+  flex-grow: 2;
 }
