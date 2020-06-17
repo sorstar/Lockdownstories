@@ -293,6 +293,9 @@ article a {
   border: none;
   border-radius: 30px;
   color: white;
+  font-weight: bold;
+  font-size: 20px;
+  letter-spacing: 2px;
   padding: 20px 40px;
   text-align: center;
   text-transform: uppercase;
@@ -303,4 +306,5 @@ article a {
   0 22.3px 17.9px rgba(0, 0, 0, 0.072),
   0 41.8px 33.4px rgba(0, 0, 0, 0.086),
   0 100px 80px rgba(0, 0, 0, 0.12);
+  cursor: pointer;
 }
