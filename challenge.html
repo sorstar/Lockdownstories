@@ -1,65 +1,52 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Lockdownstories</title>
-  <link rel="stylesheet" href="css/style.css">
-  <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.13.0/css/all.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Lockdownstories</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.13.0/css/all.css">
 </head>
+
 <body>
-  <header>
-    <nav>
-      <a href="index.html"><h1>Lockdownstories</h1></a>
-      <ul>
-        <li><a href="challenge.html"><i class="far fa-flag active"></i></a></li>
-        <li><a href="/"><i class="far fa-user"></i></a></li>
-      </ul>
-    </nav>
-  </header>
+    <header>
+        <nav>
+            <a href="index.html">
+                <h1>Lockdownstories</h1>
+            </a>
+            <ul>
+                <li><a href="challenge.html"><i class="far fa-flag"></i></a></li>
+                <li><a href="/"><i class="far fa-user"></i></a></li>
+            </ul>
+        </nav>
+    </header>
 
-  <div class="cvdd">
-      <div class="cvdd-1">
-        <h2>VANDAAG</h2>
-        <h3>25 mei</h3>
-      </div>
-      <div class="cvdd-2">
-        <p>Ga naar buiten en probeer zoveel mogelijk vogels te spotten.</p>
-      </div>
-  </div>
 
-  <div id="filter">
-    <i class="fas fa-filter"></i>
-  </div>
+    <div id="upload">
+        <img src="img/Upload.svg" id="uploadimage" alt="">
+        <p>Welke emoji drukt het beste jouw gevoel uit?</p>
 
-  <main id="fixedheight">
-    <a href="upload.html"><i id="fixedbutton" class="fas fa-plus-circle"></i></a>
-    <article>
-      <a href="challenge.html"><h2>Emma</h2></a>
-      <a href="challenge.html"><p>Vogels spotten</p></a>
-    </article>
-    <article>
-      <h2>Emma</h2>
-      <p>Vogels spotten</p>
-    </article>
-    <article>
-      <h2>Emma</h2>
-      <p>Vogels spotten</p>
-    </article>
-    <article>
-      <h2>Emma</h2>
-      <p>Vogels spotten</p>
-    </article>
-    <article>
-      <h2>Emma</h2>
-      <p>Vogels spotten</p>
-    </article>
-    <article>
-      <h2>Emma</h2>
-      <p>Vogels spotten</p>
-    </article>
-  </main>
+        <div class="radio-toolbar">
+
+            <input type="radio" id="huilen" name="radioFruit" value="huilen">
+            <label for="huilen">&#128557</label>
+
+            <input type="radio" id="sip" name="radioFruit" value="sip">
+            <label for="sip">&#128577</label>
+
+            <input type="radio" id="verdrietig" name="radioFruit" value="verdrietig">
+            <label for="verdrietig">&#128533</label>
+
+            <input type="radio" id="blij" name="radioFruit" value="blij">
+            <label for="blij">&#128515</label>
+
+            <input type="radio" id="superblij" name="radioFruit" value="superblij">
+            <label for="superblij">&#128513</label>
+        </div>
+    </div>
 
 </body>
+
 </html>
