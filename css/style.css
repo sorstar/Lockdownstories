@@ -456,3 +456,7 @@ article a {
   background-color: white;
   border-radius: 20em;
 }
+
+.confetti {
+  background-image: url(../img/confetti.gif);
+}
