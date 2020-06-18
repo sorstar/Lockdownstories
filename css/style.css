@@ -238,21 +238,21 @@ article a {
   margin-top: 2em;
 }
 
-#upload {
+.upload {
   margin-top: 6em;
   margin-left: auto;
   margin-right: auto;
 }
 
-#upload img {
+.upload img {
   margin: auto;
 }
-#uploadimage{
+.uploadimage{
   display: flex;
   justify-content: center;
 }
 
-#upload p {
+.upload p {
   margin-top: 1.5em;
   text-align: center;
   font-size: 1em;
@@ -287,6 +287,28 @@ article a {
   display: flex;
   justify-content: center;
 }
+.button-upload-color{
+  margin: 30px auto;
+  width: 20em;
+  display: flex;
+  justify-content: center;
+}
+.button-upload-color button {
+  background-color: #75ADB3;
+  border: none;
+  border-radius: 30px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  letter-spacing: 2px;
+  padding: 20px 40px;
+  text-align: center;
+  text-transform: uppercase;
+  box-shadow: 0px 4px 4px 0px rgba(0,0,0,0.35);
+  cursor: pointer;
+}
+
+
 
 .button-upload button {
   background-color: #C4C4C4;
