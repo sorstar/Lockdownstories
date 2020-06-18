@@ -421,6 +421,7 @@ article a {
 
 #bewerken-tekst textarea {
   border-radius: 10px;
+  padding: 1em;
 }
 
 .button-bewerken {
