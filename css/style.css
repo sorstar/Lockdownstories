@@ -323,10 +323,20 @@ article a {
 
 .profiel h2 {
   margin-left: 20px;
+  margin-top: 20px;
 }
 
 .profiel p {
-  margin-left: -65px;
+  margin-left: -68px;
   margin-right: 20px;
   align-self: flex-end;
+  padding-bottom: 1em;
+}
+
+.edit {
+  display: flex;
+  justify-content: flex-end;
+  color: #A578FC;
+  font-size: 2em;
+  padding-right: 1em;
 }
