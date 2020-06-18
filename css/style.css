@@ -342,6 +342,11 @@ article a {
   padding-right: 1em;
 }
 
+.edit a{
+  text-decoration: none;
+  color: #A578FC;
+}
+
 .tab {
   display: flex;
   margin-top: 2em;
@@ -384,4 +389,59 @@ article a {
 
 .lightpurple-tab-1 a {
   color: white;
+}
+
+#bewerken {
+  margin-top: 6em;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: center;
+}
+
+#profielfotoBewerken {
+  width: 40%;
+  height: 40%;
+}
+
+
+
+#bewerken-tekst {
+  text-align: center;
+}
+
+#bewerken-tekst h2 {
+  margin-top: 1em;
+}
+
+#bewerken-tekst p {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+#bewerken-tekst textarea {
+  border-radius: 10px;
+}
+
+.button-bewerken {
+  display: flex;
+  justify-content: center;
+  margin-top: 2em;
+}
+
+
+.button-bewerken button {
+  background-color: #75ADB3;
+  border: none;
+  border-radius: 30px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  letter-spacing: 2px;
+  padding: 20px 40px;
+  text-align: center;
+  text-transform: uppercase;
+  box-shadow: 0px 4px 4px 0px rgba(0,0,0,0.35);
+  cursor: pointer;
+  text-decoration: none;
 }
