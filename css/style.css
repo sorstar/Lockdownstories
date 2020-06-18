@@ -331,7 +331,7 @@ article a {
   margin-left: -68px;
   margin-right: 20px;
   align-self: flex-end;
-  padding-bottom: -1em;
+  padding-bottom: 0.5em;
 }
 
 .edit {
