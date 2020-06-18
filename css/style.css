@@ -351,7 +351,7 @@ article a {
 .tab-1 {
   flex-grow: 1;
   text-align: center;
-  background-color:#5D4293;
+  background-color: #5D4293;
   color: white;
   padding: 10px 0px 10px 0px;
   font-size:1.7em;
@@ -363,5 +363,21 @@ article a {
   background-color: #A578FC;
   padding: 10px 0px 10px 0px;
   font-size:1.7em;
+}
 
+.darkpurple-tab-2 {
+  flex-grow: 1;
+  text-align: center;
+  background-color: #5D4293;
+  padding: 10px 0px 10px 0px;
+  font-size:1.7em;
+}
+
+.lightpurple-tab-1 {
+  color: white;
+  flex-grow: 1;
+  text-align: center;
+  background-color: #A578FC;
+  padding: 10px 0px 10px 0px;
+  font-size:1.7em;
 }
