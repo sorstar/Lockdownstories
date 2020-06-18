@@ -340,3 +340,26 @@ article a {
   font-size: 2em;
   padding-right: 1em;
 }
+
+.tab {
+  display: flex;
+  margin-top: 2em;
+}
+
+.tab-1 {
+  flex-grow: 1;
+  text-align: center;
+  background-color:#5D4293;
+  color: white;
+  padding: 10px 0px 10px 0px;
+  font-size:1.7em;
+}
+
+.tab-2 {
+  flex-grow: 1;
+  text-align: center;
+  background-color: #A578FC;
+  padding: 10px 0px 10px 0px;
+  font-size:1.7em;
+
+}
