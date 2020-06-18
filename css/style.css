@@ -446,3 +446,13 @@ article a {
   cursor: pointer;
   text-decoration: none;
 }
+
+#bewerken-plus {
+  position: fixed;
+  top: 10em;
+  right: 10em;
+  color: #A578FC;
+  font-size: 2em;
+  background-color: white;
+  border-radius: 20em;
+}
