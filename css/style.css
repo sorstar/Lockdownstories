@@ -344,6 +344,7 @@ article a {
 .tab {
   display: flex;
   margin-top: 2em;
+  margin-bottom: -2em;
 }
 
 .tab-1 {
