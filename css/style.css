@@ -381,3 +381,7 @@ article a {
   padding: 10px 0px 10px 0px;
   font-size:1.7em;
 }
+
+.lightpurple-tab-1 a {
+  color: white;
+}
